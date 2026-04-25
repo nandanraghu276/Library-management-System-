@@ -90,9 +90,3 @@ POST /transaction/borrow
 - Spring Data JPA Integration  
 - Authentication & Authorization (Spring Security)  
 - Frontend Integration  
-
----
-
-## 📧 Contact
-
-your-email@gmail.com

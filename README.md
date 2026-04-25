@@ -1,21 +1,19 @@
-# 📚 Digital Library System
+#  Digital Library System
 
 A **Spring MVC-based Digital Library System** that allows users to manage books, users, and transactions efficiently. This project follows a layered architecture and demonstrates backend development using Java with Spring MVC and JDBC.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📖 Book Management (Add, Update, Delete, View)
-- 👤 User Management System
-- 🔄 Borrow & Return Books
-- 🔐 Secure API structure
-- 📡 RESTful APIs
-- 🗄️ Database integration using JDBC
-
----
-
-## 🛠️ Tech Stack
+-  Book Management (Add, Update, Delete, View)
+-  User Management System
+   Borrow & Return Books
+-  Secure API structure
+-  RESTful APIs
+-  Database integration using JDBC
+-   
+##  Tech Stack
 
 - **Backend:** Java, Spring MVC
 - **Database:** MySQL
@@ -24,8 +22,7 @@ A **Spring MVC-based Digital Library System** that allows users to manage books,
 - **API Testing:** Postman
 
 ---
-
-## 📂 Project Structure
+##  Project Structure
 
 ```
 src/
@@ -50,7 +47,7 @@ Run the application using your IDE (IntelliJ / Eclipse) or server.
 
 ---
 
-## 🔗 API Endpoints (Sample)
+##  API Endpoints (Sample)
 
 ### ➤ Add Book
 ```
@@ -74,7 +71,7 @@ POST /transaction/borrow
 
 ---
 
-## 🎯 Key Highlights
+##  Key Highlights
 
 - Layered Architecture (Controller → Service → Repository)
 - Uses **Spring MVC** for request handling
@@ -84,7 +81,7 @@ POST /transaction/borrow
 
 ---
 
-## 📌 Future Improvements
+##  Future Improvements
 
 - Spring Boot Migration  
 - Spring Data JPA Integration  
